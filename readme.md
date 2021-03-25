@@ -1,4 +1,4 @@
-# GarmentIO T-shirts Batches
+# Garment IO T-shirts Batches
 
 This is realy simple NodeJs webapp you can use to keep track your batches
 
@@ -7,4 +7,5 @@ This is realy simple NodeJs webapp you can use to keep track your batches
 Make sure you have nodjs and npm installed.<br>
 
 1. cd to App
-2. node index.js
+2. install node_modules use : npm install
+3. node index.js
